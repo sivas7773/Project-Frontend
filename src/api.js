@@ -1,1 +1,1 @@
-export const baseUrl="http://localhost:8080"
+export const baseUrl="https://project-backend-2-mqmi.onrender.com"
